@@ -2,5 +2,5 @@
 👀 Senior Software Engineer (.Net, Azure developer & DevOps) \
 📫 How to reach me ... \
 linkedin: www.linkedin.com/in/sudhakar-bandi \
-Email: sudhakarb1238@gmail.com@gmail.com 
+Email: sudhakarb1238@gmail.com 
 
